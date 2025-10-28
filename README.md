@@ -1,4 +1,4 @@
-# 💹 Financial Market Risk Engine
+#  Financial Market Risk Engine
 
 _A modular quantitative-finance learning project_
 
@@ -12,6 +12,9 @@ It builds up from first principles: simulating market prices, valuing bonds, com
 All code is written from scratch in Python for full transparency
 
 ---
+<img width="947" height="391" alt="Screenshot 2025-10-28 at 18 42 45" src="https://github.com/user-attachments/assets/fcd4fbfd-15c4-4e07-be3a-a62d34dd57fe" />
+<img width="983" height="497" alt="Screenshot 2025-10-28 at 18 43 06" src="https://github.com/user-attachments/assets/cb39d665-953b-4bf3-bf43-e587ef3faa83" />
+<img width="886" height="488" alt="Screenshot 2025-10-28 at 18 26 37" src="https://github.com/user-attachments/assets/431023da-a5b7-43d7-acb9-99ae1b7ec008" />
 
 ## Components Implemented
 
