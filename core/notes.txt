@@ -1,0 +1,16 @@
+1. Why rising rates lower bond prices:
+A bond’s coupon is fixed. When new bonds offer higher coupons (e.g. 5% instead of 4%), older bonds must trade at a discount to offer an equivalent yield to buyers. Thus, bond prices fall when market rates rise.
+
+2. Duration:
+Duration measures the average time (in present-value terms) it takes to receive the bond’s cash flows.
+It’s also a measure of price sensitivity: if duration = 5, a 1% rise in yield causes approximately a 5% drop in price.
+Mathematically, it’s the PV-weighted time of all cash flows divided by the total bond price.
+
+3. DV01:
+DV01 (Dollar Value of 1 Basis Point) is the change in price for a 0.01% yield change.
+It converts duration’s percentage sensitivity into a cash risk amount, showing how much the bond value changes in currency terms.
+
+4. Scenario Analysis & Rate Shocks:
+Scenario analysis evaluates how the portfolio reacts to specific market changes (e.g. +2% or –1% rate moves).
+Each “rate shock” is a scenario.
+Running several shocks (mild/moderate/severe) provides insight into potential future losses under different environments.
